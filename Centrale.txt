@@ -1,0 +1,5 @@
+202005001 | 1236 | 20 octobre 2008 | Tomates | 4 | 4.0 | 26 Octobre 2009 | Fonty Agadir
+
+212005001  | 1235 | 21 octobre 2008 | Tomates | 6 | 3.5 | 22 Oct 2009 | Gueliz Marrakech
+
+212005002  | 1234 | 21 octobre 2008 | Tomates | 8 | 3.0 | 11 Octobre 2009 | Casablanca
